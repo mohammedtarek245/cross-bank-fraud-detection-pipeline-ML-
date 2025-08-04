@@ -18,11 +18,20 @@ The pipeline is structured into multiple analytical **profiles**, each targeting
 ## Folder Structure
 
 
-├── Additional files/       # Outputs from each profile (CSV/XLSX)
-├── code/                   # Jupyter notebook with the full implementation
-├── Documentation/          # PDF/text reports, visuals, executive summary
-├── enriched csv/           # IP enrichment outputs (from IPInfo API)
-├── Pics/                   # Visualizations of output
+├── Additional files/        
+│   └── Outputs from each profile (CSV/XLSX)
+
+├── code/                    
+│   └── Jupyter notebook with the full implementation
+
+├── Documentation/           
+│   └── PDF/text reports, visuals, executive summary
+
+├── enriched csv/            
+│   └── IP enrichment outputs (from IPInfo API)
+
+├── Pics/                    
+    └── Visualizations of output
 
 
 ## Key Technologies Used
