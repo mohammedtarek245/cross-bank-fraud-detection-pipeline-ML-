@@ -22,6 +22,7 @@ The pipeline is structured into multiple analytical **profiles**, each targeting
 ├── code/                   # Jupyter notebook with the full implementation
 ├── Documentation/          # PDF/text reports, visuals, executive summary
 ├── enriched csv/           # IP enrichment outputs (from IPInfo API)
+├── Pics/                   # Visualizations of output
 
 
 ## Key Technologies Used
